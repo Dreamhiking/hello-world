@@ -1,1 +1,3 @@
-yjy11
+language: java
+jdk:
+- oraclejdk8
